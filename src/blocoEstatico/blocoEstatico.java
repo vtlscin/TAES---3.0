@@ -8,7 +8,6 @@ public class blocoEstatico {
 	
 	static 
 	{
-		w = 1;
 		x = 1;
 		y = 0;
 	}
